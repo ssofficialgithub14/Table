@@ -1,0 +1,5 @@
+{
+  "name": "Multiplication Table",
+  "description": "A simple and elegant web application that displays the multiplication table from 1 to 10.",
+  "requestFramePermissions": []
+}
